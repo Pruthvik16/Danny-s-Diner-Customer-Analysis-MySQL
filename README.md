@@ -45,9 +45,3 @@ The "Danny's Diner Customer Analysis and Loyalty Program" project is a comprehen
 - **Loyalty Program Enhancement:** The project's loyalty program insights can help the restaurant refine its loyalty program structure, bonus points, and special offers.
 
 - **Performance Measurement:** The project helps monitor customer visits, spending trends, and popular items, facilitating ongoing performance evaluation and strategic planning.
-
-**GitHub Repository Description:**
-
-This GitHub repository contains a comprehensive database management and analysis project for Danny's Diner. It includes SQL scripts for database creation, data population, and various customer analysis queries. The project aims to help restaurant owners and data analysts gain insights into customer behavior, preferences, and loyalty. The provided code and documentation can be used as a learning resource for SQL, database management, and data analysis techniques.
-
-Feel free to explore the repository's contents, run the provided SQL queries, and adapt the project's insights to real-world scenarios. Whether you're a restaurant owner looking to enhance customer experiences or a student interested in practicing SQL skills, this project serves as an insightful example of data-driven decision-making in the hospitality industry.
